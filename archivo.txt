@@ -1,0 +1,10 @@
+clase hola{
+publico estatico vacio principal(cadena args[]){
+entero edad = 0, y=10, z=10;
+cadena nombre;
+nombre = Erika;
+edad = y + z;
+Sistema.salida.imprimir("Nombre:" + nombre + "\n" +
+"Edad:" + edad);
+}
+}
